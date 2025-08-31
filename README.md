@@ -1,2 +1,3 @@
-# LamBo-Bot-Team
-contains our ToS and Privacy policy
+# LamBo Bot Team Information
+Navigate here for our ToS
+Navigate here for our Privacy policy
