@@ -1,11 +1,11 @@
-# Privacy Policy for LamBo Genie
-
+# Privacy Policy for No Moderation
+**Revised on:** Monday 20 October 2025 <br>
 **Effective Date:** Sunday, 31 August 2025
 
-This Privacy Policy explains how **LamBo Genie** (“the Bot”) collects, uses, and stores data when you use it in your Discord server.
+This Privacy Policy explains how **No Moderation** (“the Bot”) collects, uses, and stores data when you use it in your Discord server.
 
 ## 1. Data Collected
-- **Message Content:** The Bot scans messages in real-time for specific keywords. Message content is stored (for puprouses of enforcing Discord's ToS).  
+- **Message Content:** The Bot scans messages in real-time for specific keywords. Message content is stored (for purposes of enforcing Discord's ToS).  
 - **Deletion Logs:** When a message is deleted by the Bot, a record of the deletion event (such as the time, message content and possibly the user ID (and username)) may be stored for moderation purposes.  
 - **No Personal Data:** The Bot does not collect personal information such as names, email addresses, or IP addresses.  
 
